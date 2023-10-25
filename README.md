@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Shraddha Gupta</h1>
 <h3 align="center">Aspiring Software Engineer and DSA Enthusiast from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Flottiefiles.com%2Fanimations%2Fgirl-on-computer-with-idea-vKx1wtZe5l&psig=AOvVaw0N_iX-v0MwCxgeDyBwEHzm&ust=1698298309728000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJiqkrC8kIIDFQAAAAAdAAAAABAD">
+<img align="right" alt="coding" width="400" src="![image](https://github.com/Shraddha09-Gupta22/Shraddha09-Gupta22/assets/91560892/5a3bf08c-c435-484f-8c61-755968858bb6)
+">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shraddha09-gupta22&label=Profile%20views&color=0e75b6&style=flat" alt="shraddha09-gupta22" /> </p>
 
