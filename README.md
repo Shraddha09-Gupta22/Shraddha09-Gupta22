@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shraddha09-gupta22&label=Profile%20views&color=0e75b6&style=flat" alt="shraddha09-gupta22" /> </p>
 
-- 🔭 I’m currently studying computer science [Shopping Cart](https://github.com/Shraddha09-Gupta22/pizza)
+- 🔭 I’m currently studying computer science 
 
 - 🌱 I’m currently learning **Node.js**
 
@@ -14,6 +14,7 @@
 - 📫 How to reach me **shraddha.gupta2209@gmail.com**
 
 - 📄 Know about my experiences [https://bit.ly/46VmE2v](https://bit.ly/46VmE2v)
+- Projects [Shopping Cart](https://github.com/Shraddha09-Gupta22/pizza)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
