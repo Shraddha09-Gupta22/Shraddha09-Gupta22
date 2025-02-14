@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **shraddha.gupta2209@gmail.com**
 
-- 📄 Know about my experiences [Resume]([https://bit.ly/46VmE2v](https://drive.google.com/file/d/1KvzeAffCRifee513HeNnqZQvAC6Pv9kd/view))
+- 📄 Know about my experiences ([Resume](https://drive.google.com/file/d/1KvzeAffCRifee513HeNnqZQvAC6Pv9kd/view))
 - Projects [Shopping Cart](https://github.com/Shraddha09-Gupta22/pizza)
 
 <h3 align="left">Connect with me:</h3>
