@@ -1,22 +1,30 @@
-<h1 align="center">Hi 👋, I'm Shraddha Gupta</h1>
-<h3 align="center">Aspiring Full stack developer and DSA Enthusiast from India</h3>
+# 🚀 Software Engineer | Full-Stack Developer | Tech Enthusiast
 
-<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
+Hello there! 👋  I'm a passionate Software Developer with experience building scalable and high-performance applications. I specialize in **Full-Stack and Mobile Development**, working with **React Native, MERN stack, and cloud technologies** to create user-centric solutions. 🚀
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shraddha09-gupta22&label=Profile%20views&color=0e75b6&style=flat" alt="shraddha09-gupta22" /> </p>
+---
 
-- 🔭 I’m currently studying computer science 
+## 🛠 Tech Stack & Expertise
 
-- 🌱 I’m currently learning **Node.js**
+### **Frontend**  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-- 💬 Ask me about **React.js, Data Structure and Algorithm**
+### **Backend**  
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
-- 📫 How to reach me **shraddha.gupta2209@gmail.com**
+### **Databases**  
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-- 📄 Know about my experiences ([Resume](https://drive.google.com/file/d/1KvzeAffCRifee513HeNnqZQvAC6Pv9kd/view))
-- Projects [Shopping Cart](https://github.com/Shraddha09-Gupta22/pizza)
+### **Other Tools & Services**  
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
-<h3 align="left">Connect with me:</h3>
+---
+## 🔗 Connect with me
 <p align="left">
 <a href="https://linkedin.com/in/shraddha-gupta-2209s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shraddha-gupta-2209s" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/profile/shraddha_gupta22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shraddhagupta2209" height="30" width="40" /></a>
@@ -24,8 +32,33 @@
 <a href="https://auth.geeksforgeeks.org/user/shraddhagupta2209" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="shraddhagupta2209" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+---
+
+## 📌 Key Accomplishments
+
+✔ **Built a Real Estate App** using React Native with Google OAuth, property listings, and booking management.  
+✔ **Developed a Ticketing Tool** at Haltdos, automating support ticket generation using Microsoft Graph SDK.  
+✔ **Integrated Google Maps API** for real-time location tracking in a cab price comparison app.  
+✔ **Deployed backend services** on AWS using Elastic Beanstalk and CodePipeline for scalability.   
+✔ **Solved 400+ Leetcode problems**, achieving a **max contest rating of 1530**.  
+✔ **Gained hands-on experience in full-stack development**, working with React Native, MERN stack, and cloud technologies.  
+
+---
+
+
+## 💼 Work Experience
+
+### **Associate Software Engineer | Accenture** _(July 2024 - Present)_
+📍 Gurugram, Haryana, India  
+🔹 Completed React Native training, gaining proficiency in developing cross-platform mobile applications.  
+🔹 I am currently working on projects to enhance skills, applying knowledge through hands-on coding, real-world simulations, and workshops.
+
+### **Software Development Intern | Haltdos** _(Feb 2024 - July 2024)_
+📍 Noida, Uttar Pradesh, India  
+🔹 I gained experience in Java, MySQL, and Postman API.
+🔹 Successfully contributed to developing a live project named ”Ticketing Tool” using Microsoft Graph SDK, which enables the generation of support tickets from incoming support emails.
+
+🚀 **Let's build something amazing together!**
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shraddha09-gupta22&show_icons=true&locale=en&layout=compact" alt="shraddha09-gupta22" /></p>
 
