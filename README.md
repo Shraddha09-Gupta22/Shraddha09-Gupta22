@@ -39,7 +39,6 @@ Hello there! 👋  I'm a passionate Software Developer with experience building 
 ✔ **Built a Real Estate App** using React Native with Google OAuth, property listings, and booking management.  
 ✔ **Developed a Ticketing Tool** at Haltdos, automating support ticket generation using Microsoft Graph SDK.  
 ✔ **Integrated Google Maps API** for real-time location tracking in a cab price comparison app.  
-✔ **Deployed backend services** on AWS using Elastic Beanstalk and CodePipeline for scalability.   
 ✔ **Solved 400+ Leetcode problems**, achieving a **max contest rating of 1530**.  
 ✔ **Gained hands-on experience in full-stack development**, working with React Native, MERN stack, and cloud technologies.  
 
