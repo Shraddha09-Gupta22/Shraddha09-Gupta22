@@ -23,6 +23,7 @@ Hello there! 👋  I'm a passionate Software Developer with experience building 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
+---
 
 ## 🔗 Connect with me
 <p align="left">
@@ -50,7 +51,7 @@ Hello there! 👋  I'm a passionate Software Developer with experience building 
 ### **Associate Software Engineer | Accenture** _(July 2024 - Present)_
 📍 Gurugram, Haryana, India  
 🔹 Completed React Native training, gaining proficiency in developing cross-platform mobile applications.  
-🔹 I am currently working on projects to enhance skills, applying knowledge through hands-on coding, real-world simulations, and workshops.
+🔹 I am working on projects to enhance skills, applying knowledge through hands-on coding, real-world simulations, and workshops.
 
 ### **Software Development Intern | Haltdos** _(Feb 2024 - July 2024)_
 📍 Noida, Uttar Pradesh, India  
