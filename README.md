@@ -23,7 +23,7 @@ Hello there! 👋  I'm a passionate Software Developer with experience building 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
----
+
 ## 🔗 Connect with me
 <p align="left">
 <a href="https://linkedin.com/in/shraddha-gupta-2209s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shraddha-gupta-2209s" height="30" width="40" /></a>
